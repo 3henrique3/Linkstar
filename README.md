@@ -1,11 +1,13 @@
-# Linkstar
+# 🌐 Linkstar
 Um sistema web criado para reunir as principais ferramentas do dia a dia em um só lugar.
 
-## Tecnologias
+## 💻 Funcionalidades
+° Calculadora
+
+## 🖥 Tecnologias
 Html5, CSS3 e JavaScript.
 
-## Contribução
+## ⚙️ Contribução
 Abra issues para contribuir com melhorias e/ou correções de bugs.
 
-## Licença
-MIT license
+https://img.shields.io/badge/MIT-license-blue
