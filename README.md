@@ -5,12 +5,12 @@ Um sistema web criado para reunir as principais ferramentas do dia a dia em um s
 ° Calculadora
 
 ## Ferramentas
-Visul Studio Code
+Visual Studio Code
 
 ## 🖥 Tecnologias
 Html5, CSS3 e JavaScript.
 
-## ⚙️ Contribução
+## ⚙️ Contribuição
 Abra issues para contribuir com melhorias e/ou correções de bugs.
 
 ## Autor
